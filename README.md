@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rownpown
+- 👋 Hi, I’m @maik_be
 - 👀 I’m interested in ... AWS and cloud services
 - 🌱 I’m currently learning ... Static websites
 - 💞️ I’m looking to collaborate on ... database structures
